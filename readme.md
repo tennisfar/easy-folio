@@ -1,5 +1,6 @@
 # Easy Folio
 
+### About
 'Easy Folio' displays the images in a folder as a web gallery using thumbnails
 generated on the fly. The large version of the image is displayed on a 
 separate page with embedded IPTC caption data.
@@ -8,7 +9,10 @@ Uses code: https://github.com/mikelothar/show-all-images-in-a-folder-with-php
 
 Needs PHP on your server in order for this to work.
 
-Setup
+### Demo
+http://www.lukasspieker.com/hebrides/
+
+### Setup
 - Website owner info: Modify 'header.php' to set the links as indicated.
 - There is no need to modify 'index.php' and 'picture.php'.
 - Upload the following files into a folder on your webserver: 
@@ -21,12 +25,10 @@ Setup
   The current version of 'Easy Folio' reads the 'caption' and 'headline' IPTC fields.
   
 
-Instructions
+### Instructions
 - There is nothing more to do.
     
-  
+### Kindly provided by
 Lukas Spieker
-
-Web: http://www.lukasspieker.com
-
-Twitter: @lukasspieker
+* * *
+[lukasspieker.com](http://www.lukasspieker.com)  /  [@lukasspieker](https://twitter.com/lukasspieker)
